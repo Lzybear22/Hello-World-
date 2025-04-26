@@ -10,12 +10,11 @@ This is to see if my VS Code is working with Git and GitHub.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Some tools I used was VS Code, Git, and GitHub
 
-{Describe the programming language that you used}
+I used C# and the MarkDown languges
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* Youtube (https://www.youtube.com/)
